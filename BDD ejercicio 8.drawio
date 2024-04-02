@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T00:11:48.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.1" etag="61vVmHjKVF3Acguw6w0m" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T00:34:18.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wDe1eZb87LQItV7uSJ0N" version="24.2.1" type="github">
   <diagram name="Página-1" id="K9grkGZ-7-B6j2kyRMEG">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="W41EgBRjmot6BUHBme8W-1" value="Jugadores" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-2" value="Partidos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-3" value="Goles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-4" value="Presidente" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-5" value="Equipos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-8" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-9" value="fecha nac" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-10" value="posicion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-11" value="cod. jugador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-12" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-13" value="nomb. estadio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="414" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-14" value="fecha fundacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="354" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-16" value="ciudad origen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-17" value="cod.equipo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-18" value="fecha partido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="290" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-19" value="cod. partido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="364" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-20" value="cantidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-22" value="goleador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-27" value="minuto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-28" value="dni" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-29" value="nombre" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-30" value="apellido" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="610" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-31" value="fecha nac" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-32" value="equipo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="470" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="W41EgBRjmot6BUHBme8W-33" value="año inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
