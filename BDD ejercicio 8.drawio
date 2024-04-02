@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T00:42:34.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="coxgWaGNOid4vD_x4zY9" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T00:44:36.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VFaK4ak-FIa6eL5BEJ_G" version="24.2.1" type="github">
   <diagram name="Página-1" id="K9grkGZ-7-B6j2kyRMEG">
     <mxGraphModel dx="1050" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,16 +118,16 @@
         <mxCell id="W41EgBRjmot6BUHBme8W-22" value="goleador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="835" y="105" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="W41EgBRjmot6BUHBme8W-23" value="Jueagan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W41EgBRjmot6BUHBme8W-23" value="Participan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W41EgBRjmot6BUHBme8W-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W41EgBRjmot6BUHBme8W-24" value="Convierten" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W41EgBRjmot6BUHBme8W-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W41EgBRjmot6BUHBme8W-25" value="Juegan" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="W41EgBRjmot6BUHBme8W-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W41EgBRjmot6BUHBme8W-26" value="preside" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W41EgBRjmot6BUHBme8W-27" value="minuto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
